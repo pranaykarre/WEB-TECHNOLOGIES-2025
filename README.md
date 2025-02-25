@@ -8,3 +8,5 @@
   #Finance--https://github.com/pranaykarre/WEB-TECHNOLOGIES-2025/blob/main/Finance%20Tracker.html
 # LAB ASSIGNMENT-2.2:
   #student Management--https://github.com/pranaykarre/WEB-TECHNOLOGIES-2025/blob/main/Student%20Management.html
+# LAB ASSIGNMENT-5.1:
+  #
